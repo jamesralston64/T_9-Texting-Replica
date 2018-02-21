@@ -9,5 +9,5 @@ A user can input a sequence of numbers and the algorithm will output all of
 the valid english words represented by the input sequence of numbers.
 
 This program implements the dictionary in two seperate ways, using a HashTable
-and using a PrefixTree. The speed of each implementation is recorded to find out
+and using a TrieTree. The speed of each implementation is recorded to find out
 which implementation is the faster of the two.
